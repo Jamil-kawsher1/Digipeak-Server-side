@@ -186,7 +186,7 @@ async function run() {
 run().catch(console.dir);
 
 app.get('/', (req, res) => {
-    res.send('Hello From Action Shark')
+    res.send('Hello From Digipeak BD')
 })
 
 
